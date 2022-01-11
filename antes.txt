@@ -1,0 +1,26 @@
+/*!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>GUIAtarjetadeUsuario</title>
+        <link href="CSS/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="contenedor">
+            <div class="header"></div>
+            <img src="./imagenes/user-circle.png" class="img1"/>
+            <div class="caja3">
+                <div class="1">Jane Doe</div>
+                <img src="./imagenes/map-marker.png" class="img2"/>
+                <div class="3">Seattle</div>
+                <div class="profesion">Developer| Engineer| Problem Solver</div>
+                <div class="profesion">Master of shadows and the Internet</div>
+                <img src="./imagenes/gear.png" class="img6"/>
+                <a href="https://www.google.com" class="7"> 
+                    edit profile
+                </a>
+            </div>
+        </div>
+    </body>
+</html> */

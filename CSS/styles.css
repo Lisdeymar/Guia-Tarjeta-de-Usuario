@@ -1,0 +1,47 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+.contenedor{
+    border: 2px solid gray;
+    margin: 100px;
+    width: 650px;
+}
+.header {
+    height: 70px;
+    background-color: rgb(9, 147, 165);
+}
+.header > img{
+    max-height: 80px;
+    max-width: 80px;
+    position: relative;
+    top: 30px;
+    margin-left: 15px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    padding: 2px;
+    background-color: white;
+
+}
+.img2, .img6{
+    height: auto;
+    width: auto;
+    max-height: 20px;
+    max-width: 20px;
+    
+}
+.cuerpotarjetaInformacion{
+    margin-left: 15px;
+    margin-top: 55px;
+}
+.skills > p{
+    margin: 0px;
+}
+.skills {
+    margin: 8px 0;
+}
+.sea, .link{
+    vertical-align: 3px;
+}
+.editperfil {
+    margin-bottom: 12px;
+}
